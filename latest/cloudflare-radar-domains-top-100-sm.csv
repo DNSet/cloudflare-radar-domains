@@ -1,102 +1,101 @@
 rank,domain,categories
 1,google.com,Search Engines
 2,microsoft.com,Information Technology;Business
-3,facebook.com,Social Networks
-4,googleapis.com,Content Servers;Personal Blogs
-5,apple.com,Information Technology;Technology
-6,gstatic.com,Content Servers
+3,gstatic.com,Content Servers
+4,doubleclick.net,Advertisements
+5,bing.com,Search Engines
+6,googlesyndication.com,Search Engines;Advertisements
 7,akamaiedge.net,Content Servers
-8,akamai.net,Content Servers
-9,tiktokcdn.com,Content Servers;Social Networks
-10,amazonaws.com,Technology
-11,googleusercontent.com,Content Servers
-12,doubleclick.net,Advertisements
-13,aaplimg.com,Information Technology;Content Servers;Technology
-14,office.com,Technology
-15,apple-dns.net,Content Servers
-16,googlesyndication.com,Search Engines;Advertisements
-17,office.net,Content Servers
-18,whatsapp.net,Instant Messengers;Internet Phone & VOIP
-19,live.com,Technology;Webmail
-20,akadns.net,Content Servers
-21,ytimg.com,Content Servers
-22,icloud.com,File Sharing;Content Servers
-23,tiktokv.com,Social Networks;Video Streaming
-24,youtube.com,Video Streaming
-25,spotify.com,Audio Streaming
-26,amazon.com,Ecommerce
-27,skype.com,Instant Messengers;Internet Phone & VOIP
-28,cloudfront.net,Content Servers;Science;Technology
-29,gmail.com,Webmail
-30,instagram.com,Social Networks
-31,office365.com,Technology
-32,gvt2.com,Content Servers
-33,microsoftonline.com,Technology
-34,slack.com,Instant Messengers
-35,bing.com,Search Engines
-36,amazon-adsystem.com,Advertisements
-37,fbcdn.net,Social Networks
-38,digicert.com,Information Security
-39,criteo.com,Business
-40,scorecardresearch.com,Business
-41,msedge.net,Content Servers
-42,rubiconproject.com,Advertisements
-43,surfshark.com,CIPA Filter;Anonymizer
-44,google.sm,Search Engines
-45,amazon.it,Ecommerce
-46,ggpht.com,Content Servers
-47,cdn77.org,Content Servers
-48,yahoo.com,News & Media
-49,adobe.io,Business;Technology
-50,googleadservices.com,Advertisements
-51,criteo.net,Business
-52,ui.com,Technology
-53,demdex.net,Technology
-54,adsafeprotected.com,Advertisements
-55,kaspersky.com,Technology
-56,dropbox.com,File Sharing
-57,windowsupdate.com,Information Technology;Business
-58,google-analytics.com,Business;Technology
-59,passepartout.cloud,Business
-60,windows.com,Information Technology
-61,sharepoint.com,File Sharing;Technology
-62,akamaized.net,Content Servers
-63,cloudflare.com,Technology
-64,azure.com,Technology
-65,googlevideo.com,Search Engines;Video Streaming
-66,msn.com,News & Media
-67,cloudflare-dns.com,Content Servers
-68,imrworldwide.com,Content Servers
-69,app-measurement.com,APIs
-70,googletagmanager.com,Content Servers
-71,id5-sync.com,Content Servers
-72,brave.com,Information Technology
-73,openx.net,Advertisements
-74,windows.net,Technology
-75,pubmatic.com,Business;Technology
-76,ntp.org,Technology;Government
-77,creativecdn.com,Content Servers
-78,bidswitch.net,Technology
-79,scdn.co,Content Servers
-80,outbrain.com,Business;Advertisements
-81,iubenda.com,Information Security
-82,opera.com,Technology
-83,sharethrough.com,Business
-84,adobe.com,Technology
-85,linkedin.com,Professional Networking
-86,cdninstagram.com,Content Servers
-87,kaspersky-labs.com,Technology
-88,unifi-ai.com,Content Servers
-89,pki.goog,Information Security
-90,lencr.org,Information Technology
-91,usertrust.com,Content Servers
-92,icloud-content.com,File Sharing
-93,adform.net,Content Servers
-94,intercom.io,Technology
-95,avast.com,Technology
-96,canva.com,Hobbies & Interests
-97,gvt1.com,Content Servers
-98,baidu.com,Search Engines
-99,qnap.com,Technology
-100,cdn-apple.com,Content Servers
-100,android.com,Technology
+8,tiktokcdn.com,Content Servers;Social Networks
+9,office.com,Technology
+10,msn.com,News & Media
+11,apple.com,Information Technology;Technology
+12,facebook.com,Social Networks
+13,googleapis.com,Content Servers;Personal Blogs
+14,live.com,Technology;Webmail
+15,akadns.net,Content Servers
+16,smartadserver.com,Advertisements
+17,whatsapp.net,Instant Messengers;Internet Phone & VOIP
+18,amazonaws.com,Technology
+19,apple-dns.net,Content Servers
+20,googleusercontent.com,Content Servers
+21,instagram.com,Social Networks
+22,youtube.com,Video Streaming
+23,office.net,Content Servers
+24,tiktokv.com,Social Networks;Video Streaming
+25,rubiconproject.com,Advertisements
+26,aaplimg.com,Information Technology;Content Servers;Technology
+27,icloud.com,File Sharing;Content Servers
+28,criteo.com,Business
+29,ytimg.com,Content Servers
+30,adnxs.com,Content Servers
+31,gmail.com,Webmail
+32,imrworldwide.com,Content Servers
+33,googleadservices.com,Advertisements
+34,skype.com,Instant Messengers;Internet Phone & VOIP
+35,amazon-adsystem.com,Advertisements
+36,cloudflare.com,Technology
+37,google-analytics.com,Business;Technology
+38,windowsupdate.com,Information Technology;Business
+39,lencr.org,Information Technology
+40,pubmatic.com,Business;Technology
+41,microsoftonline.com,Technology
+42,google.sm,Search Engines
+43,cloudflare-dns.com,Content Servers
+44,kaspersky-labs.com,Technology
+45,adobe.com,Technology
+46,gvt1.com,Content Servers
+47,fastly.net,Information Security;Information Technology;Technology
+48,office365.com,Technology
+49,booking.com,Travel
+50,spotify.com,Audio Streaming
+51,googlevideo.com,Search Engines;Video Streaming
+52,canva.com,Hobbies & Interests
+53,cdninstagram.com,Content Servers
+54,windows.net,Technology
+55,cdn77.org,Content Servers
+56,ebay.it,Auctions & Marketplaces
+57,adobe.io,Business;Technology
+58,outbrain.com,Business;Advertisements
+59,fbcdn.net,Social Networks
+60,amazon.it,Ecommerce
+61,github.com,Technology
+62,yahoo.com,News & Media
+63,azure.com,Technology
+64,surfshark.com,CIPA Filter;Anonymizer
+65,gvt2.com,Content Servers
+66,pki.goog,Information Security
+67,amazonalexa.com,Content Servers
+68,safebrowsing.apple,Content Servers
+69,criteo.net,Business
+70,akamai.net,Content Servers
+71,360yield.com,Technology
+72,netflix.com,Movies;Video Streaming
+73,cloudfront.net,Content Servers;Science;Technology
+74,ui.com,Technology
+75,hotjar.com,Business;Technology
+76,bytefcdn-oversea.com,
+77,3lift.com,Business
+78,lijit.com,Business
+79,dropbox.com,File Sharing
+80,mediaset.net,Content Servers
+81,android.com,Technology
+82,googletagmanager.com,Content Servers
+83,msedge.net,Content Servers
+84,openx.net,Advertisements
+85,akamaized.net,Content Servers
+86,scorecardresearch.com,Business
+87,exp-tas.com,Content Servers
+88,qnap.com,Technology
+89,one.one,Information Technology
+90,casalemedia.com,Advertisements
+91,slack.com,Instant Messengers
+92,amazon.com,Ecommerce
+93,launchdarkly.com,Business
+94,taboola.com,Business;Advertisements
+95,kaspersky.com,Technology
+96,pbstck.com,No Content
+97,sharepoint.com,File Sharing;Technology
+98,ad.gt,Advertisements
+99,yellowblue.io,Content Servers
+100,adform.net,Content Servers
