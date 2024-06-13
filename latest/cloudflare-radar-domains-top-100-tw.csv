@@ -11,91 +11,91 @@ rank,domain,categories
 10,googlevideo.com,Search Engines;Video Streaming
 11,cloudflare.com,Technology
 12,bing.com,Search Engines
-13,tiktokcdn.com,Content Servers;Social Networks
-14,amazonaws.com,Technology
+13,googleusercontent.com,Content Servers
+14,tiktokcdn.com,Content Servers;Social Networks
 15,googlesyndication.com,Search Engines;Advertisements
-16,live.com,Technology;Webmail
-17,icloud.com,File Sharing;Content Servers
-18,googleusercontent.com,Content Servers
-19,office.com,Technology
+16,amazonaws.com,Technology
+17,akadns.net,Content Servers
+18,live.com,Technology;Webmail
+19,icloud.com,File Sharing;Content Servers
 20,apple-dns.net,Content Servers
-21,fbcdn.net,Social Networks
-22,msn.com,News & Media
-23,akadns.net,Content Servers
-24,instagram.com,Social Networks
-25,akamaiedge.net,Content Servers
-26,spotify.com,Audio Streaming
+21,office.com,Technology
+22,akamaiedge.net,Content Servers
+23,fbcdn.net,Social Networks
+24,msn.com,News & Media
+25,instagram.com,Social Networks
+26,google-analytics.com,Business;Technology
 27,ytimg.com,Content Servers
-28,akamai.net,Content Servers
-29,yahoo.com,News & Media
-30,google-analytics.com,Business;Technology
+28,spotify.com,Audio Streaming
+29,akamai.net,Content Servers
+30,yahoo.com,News & Media
 31,qq.com,News & Media
-32,tiktokv.com,Social Networks;Video Streaming
+32,googleadservices.com,Advertisements
 33,aaplimg.com,Information Technology;Content Servers;Technology
-34,skype.com,Instant Messengers;Internet Phone & VOIP
-35,googletagmanager.com,Content Servers
-36,googleadservices.com,Advertisements
+34,windowsupdate.com,Information Technology;Business
+35,skype.com,Instant Messengers;Internet Phone & VOIP
+36,tiktokv.com,Social Networks;Video Streaming
 37,cloudfront.net,Content Servers;Science;Technology
-38,windowsupdate.com,Information Technology;Business
-39,cloudflare-dns.com,Content Servers
-40,lencr.org,Information Technology
-41,ntp.org,Technology;Government
-42,ggpht.com,Content Servers
-43,azure.com,Technology
+38,googletagmanager.com,Content Servers
+39,ggpht.com,Content Servers
+40,ntp.org,Technology;Government
+41,cloudflare-dns.com,Content Servers
+42,azure.com,Technology
+43,lencr.org,Information Technology
 44,pki.goog,Information Security
-45,office.net,Content Servers
+45,akamaized.net,Content Servers
 46,criteo.com,Business
-47,windows.com,Information Technology
-48,msftncsi.com,Content Servers
-49,twitter.com,Social Networks
-50,akamaized.net,Content Servers
-51,cdn77.org,Content Servers
-52,whatsapp.net,Instant Messengers;Internet Phone & VOIP
-53,rubiconproject.com,Advertisements
-54,app-measurement.com,APIs
-55,adnxs.com,Content Servers
-56,microsoftonline.com,Technology
-57,digicert.com,Information Security
-58,gvt1.com,Content Servers
-59,taobao.com,Ecommerce
-60,msedge.net,Content Servers
-61,amazon-adsystem.com,Advertisements
-62,baidu.com,Search Engines
-63,cdninstagram.com,Content Servers
-64,fastly.net,Information Security;Information Technology;Technology
-65,netflix.com,Movies;Video Streaming
-66,clarity.ms,Content Servers
-67,trafficmanager.net,Information Technology;Content Servers
-68,office365.com,Technology
-69,twimg.com,Content Servers
-70,msftconnecttest.com,Content Servers
-71,pubmatic.com,Business;Technology
-72,facebook.net,Social Networks
+47,msftncsi.com,Content Servers
+48,windows.com,Information Technology
+49,app-measurement.com,APIs
+50,cdn77.org,Content Servers
+51,twitter.com,Social Networks
+52,office.net,Content Servers
+53,netflix.com,Movies;Video Streaming
+54,rubiconproject.com,Advertisements
+55,microsoftonline.com,Technology
+56,clarity.ms,Content Servers
+57,cdninstagram.com,Content Servers
+58,whatsapp.net,Instant Messengers;Internet Phone & VOIP
+59,trafficmanager.net,Information Technology;Content Servers
+60,digicert.com,Information Security
+61,gvt1.com,Content Servers
+62,amazon-adsystem.com,Advertisements
+63,baidu.com,Search Engines
+64,twimg.com,Content Servers
+65,adnxs.com,Content Servers
+66,office365.com,Technology
+67,taobao.com,Ecommerce
+68,msedge.net,Content Servers
+69,fastly.net,Information Security;Information Technology;Technology
+70,gmail.com,Webmail
+71,facebook.net,Social Networks
+72,msftconnecttest.com,Content Servers
 73,dns.google,Information Technology
-74,azureedge.net,Content Servers
-75,line-apps.com,Content Servers
-76,gmail.com,Webmail
-77,discord.com,Instant Messengers;Internet Phone & VOIP
-78,alicdn.com,Content Servers
-79,github.com,Technology
-80,cdn-apple.com,Content Servers
-81,scorecardresearch.com,Business
-82,gamepass.com,Gaming;Information Technology
-83,steamstatic.com,Content Servers
-84,amazon.com,Ecommerce
-85,mozilla.com,Information Technology
-86,app-analytics-services.com,Content Servers
-87,brave.com,Information Technology
-88,sentry.io,Business
-89,aliyuncs.com,Content Servers
-90,taboola.com,Business;Advertisements
+74,alicdn.com,Content Servers
+75,pubmatic.com,Business;Technology
+76,cdn-apple.com,Content Servers
+77,amazon.com,Ecommerce
+78,github.com,Technology
+79,azureedge.net,Content Servers
+80,steamstatic.com,Content Servers
+81,discord.com,Instant Messengers;Internet Phone & VOIP
+82,sentry.io,Business
+83,line-scdn.net,Content Servers
+84,app-analytics-services.com,Content Servers
+85,scorecardresearch.com,Business
+86,brave.com,Information Technology
+87,appcenter.ms,Technology
+88,unity3d.com,Gaming;Technology
+89,gamepass.com,Gaming;Information Technology
+90,line-apps.com,Content Servers
 91,ttlivecdn.com,Content Servers
-92,linkedin.com,Professional Networking
-93,unity3d.com,Gaming;Technology
-94,appcenter.ms,Technology
-95,windows.net,Technology
-96,casalemedia.com,Advertisements
-97,grammarly.com,Artificial Intelligence;Hobbies & Interests
+92,cloudflareclient.com,Content Servers
+93,casalemedia.com,Advertisements
+94,windows.net,Technology
+95,linkedin.com,Professional Networking
+96,sharepoint.com,File Sharing;Technology
+97,aliyuncs.com,Content Servers
 98,applovin.com,Business;Technology
-99,douyincdn.com,Content Servers
-100,jsdelivr.net,Content Servers
+99,akamaihd.net,Content Servers
+100,taboola.com,Business;Advertisements
